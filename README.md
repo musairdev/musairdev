@@ -2,7 +2,7 @@
 
 My name is **Muhammad Saifullah Irfanuddin**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas Muria Kudus](https://umk.ac.id/).<br>
+I am a **Student** at [Muria Kudus University](https://umk.ac.id/).<br>
 
 I hope to build a company after graduating from college.<br>
 
