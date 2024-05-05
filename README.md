@@ -1,12 +1,12 @@
-# Halo semua! 
+# Hi everyone! Let me introduce myself. 
 
-Perkenalkan nama saya **Muhammad Saifullah Irfanuddin**.<br>
+My name is **Muhammad Saifullah Irfanuddin**.<br>
 
 Saya seorang **Mahasiswa** di [Universitas Muria Kudus](https://umk.ac.id/).<br>
 
-Saya berharap bisa membangun sebuah perusahaan setelah lulus kuliah.<br>
+I hope to build a company after graduating from college.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](linkedin.com/in/saifullah-irfanuddin-محمّد-4406b01bb)ku ya.
+If you are interested in getting to know me, please follow my [Linkedin account](linkedin.com/in/saifullah-irfanuddin-محمّد-4406b01bb), thank you.
 
 ### GitHub Statistic
 <p align="left">
